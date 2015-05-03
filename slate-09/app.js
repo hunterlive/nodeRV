@@ -4,7 +4,7 @@ var app = require('express')(),
     port = process.env.PORT || 3000,
     _ = require('underscore'),
     users = [
-      { id: 1, name: 'tony' }
+      { id: 1, name: 'jackson' }
     ];
 
 app.use(morgan('dev'));
