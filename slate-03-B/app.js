@@ -9,7 +9,7 @@ var express = require('express'),
 // see: https://www.npmjs.org/package/morgan
 app.use(morgan('dev'));
 
-// add middleware to always send a 'hello world' response
+// add middleware to always send a 'Ah yes helloo' response
 app.use(function(req, res, next) {
   if (req.url == '/test') {
     console.log('enabling test mode');
@@ -19,11 +19,11 @@ app.use(function(req, res, next) {
   next();
 });
 
-// add middleware to always send a 'hello world' response
+// add middleware to always send a 'Ah yes helloo' response
 app.use(function(req, res) {
   var data = testMode
       ? JSON.stringify(req.headers)
-      : '<h1>hello world</h1>';
+      : '<h1>Ah yes helloo</h1>';
 
   var contentType = testMode ? 'text/plain' : 'text/html';
 

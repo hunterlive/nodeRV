@@ -2,7 +2,7 @@
   "name": "lesson-09",
   "version": "1.0.0",
   "description": "Simple Express example with an API",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"

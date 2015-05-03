@@ -1,8 +1,8 @@
 {
   "name": "lesson-03-A",
   "version": "1.0.0",
-  "description": "Simple Express app with a middleware function to respond with 'hello world' for any request",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "description": "Simple Express app with a middleware function to respond with 'Ah yes helloo' for any request",
+  "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"

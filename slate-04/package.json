@@ -1,8 +1,8 @@
 {
   "name": "lesson-04",
   "version": "1.0.0",
-  "description": "Simple Express app that responds with 'hello world' but only handles one route (/)",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "description": "Simple Express app that responds with 'Ah yes helloo' but only handles one route (/)",
+  "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"

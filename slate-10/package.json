@@ -1,8 +1,8 @@
 {
   "name": "lesson-10",
   "version": "1.0.0",
-  "description": "Simple Express Hello World App",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "description": "Simple Express Ah yes helloo App",
+  "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"

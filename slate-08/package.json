@@ -2,7 +2,7 @@
   "name": "lesson-08",
   "version": "1.0.0",
   "description": "Simple Express example that serves responses with different content type",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"

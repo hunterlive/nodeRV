@@ -5,7 +5,7 @@ var express = require('express'),
 
 // create express middleware
 app.use(function(req, res) {
-  var data = '<h1>hello world</h1>';
+  var data = '<h1>Ah yes helloo</h1>';
 
   res.writeHead(200, { 'Content-Type': 'text/html' });
   res.end(data);
