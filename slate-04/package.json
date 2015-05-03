@@ -1,5 +1,5 @@
 {
-  "name": "lesson-04",
+  "name": "slate-04",
   "version": "1.0.0",
   "description": "Simple Express app that responds with 'Ah yes helloo' but only handles one route (/)",
   "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",

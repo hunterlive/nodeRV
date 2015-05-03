@@ -1,5 +1,5 @@
 {
-  "name": "lesson-03-A",
+  "name": "slate-03-A",
   "version": "1.0.0",
   "description": "Simple Express app with a middleware function to respond with 'Ah yes helloo' for any request",
   "author": "Justin Hunter <justinhunter1@live.com> (http://portofhunter.com)",
